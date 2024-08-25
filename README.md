@@ -34,12 +34,3 @@ Gramin Arogya stands out by focusing on the specific needs of rural areas, inclu
 
 ## Usage
 Once the platform is up and running, users can sign up, select their location, and get connected to the nearest available doctor. They can also access pre-recorded media for common health issues and use the multilingual interface for ease of communication.
-
-## Contributing
-We welcome contributions from the community to improve Gramin Arogya. Please fork this repository and submit a pull request with your proposed changes.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-For more information, visit our website: [Gramin Arogya](http://www.graminaarogya.com) or contact us at support@graminaarogya.com.
